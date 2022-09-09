@@ -3,7 +3,7 @@
 	"المنفذ" : 30226  
 	"الاسم" : "afkbot"  
 	"auto-night-skip" : "false"  
-	"ممكّن لتسجيل الدخول" : "صحيح" ،
-	"register-cmd":"/register 12345 12345",
-	"login-cmd":"/login 12345"
+	تسجيل الدخول : "صحيح"  
+	"register-cmd" : "/ سجل 12345 12345"  
+	"login-cmd" : "/ تسجيل الدخول 12345"
 }
